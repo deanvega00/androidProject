@@ -1,0 +1,67 @@
+[01-Oct-2018 11:30:43 UTC] PHP Notice:  Undefined index: email in /home/moazzamshoukat/public_html/abc/apis/user_login.php on line 6
+[01-Oct-2018 11:30:43 UTC] PHP Notice:  Undefined index: password in /home/moazzamshoukat/public_html/abc/apis/user_login.php on line 7
+[01-Oct-2018 11:30:54 UTC] PHP Notice:  Undefined index: email in /home/moazzamshoukat/public_html/abc/apis/user_login.php on line 6
+[01-Oct-2018 11:30:54 UTC] PHP Notice:  Undefined index: password in /home/moazzamshoukat/public_html/abc/apis/user_login.php on line 7
+[01-Oct-2018 11:49:16 UTC] PHP Notice:  Undefined index: email in /home/moazzamshoukat/public_html/abc/apis/user_login.php on line 6
+[01-Oct-2018 11:49:16 UTC] PHP Notice:  Undefined index: password in /home/moazzamshoukat/public_html/abc/apis/user_login.php on line 7
+[01-Oct-2018 11:49:17 UTC] PHP Notice:  Undefined index: email in /home/moazzamshoukat/public_html/abc/apis/user_login.php on line 6
+[01-Oct-2018 11:49:17 UTC] PHP Notice:  Undefined index: password in /home/moazzamshoukat/public_html/abc/apis/user_login.php on line 7
+[01-Oct-2018 11:50:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/moazzamshoukat/public_html/abc/apis/get_categoryname.php on line 13
+[01-Oct-2018 11:51:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/moazzamshoukat/public_html/abc/apis/get_categoryname.php on line 13
+[01-Oct-2018 11:51:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/moazzamshoukat/public_html/abc/apis/get_categoryname.php on line 13
+[01-Oct-2018 11:53:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/moazzamshoukat/public_html/abc/apis/update_profile.php on line 18
+[01-Oct-2018 11:53:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/moazzamshoukat/public_html/abc/apis/update_profile.php on line 18
+[01-Oct-2018 11:53:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/moazzamshoukat/public_html/abc/apis/update_profile.php on line 18
+[01-Oct-2018 11:54:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/moazzamshoukat/public_html/abc/apis/user_login.php on line 19
+[01-Oct-2018 11:54:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/moazzamshoukat/public_html/abc/apis/user_login.php on line 19
+[01-Oct-2018 11:54:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/moazzamshoukat/public_html/abc/apis/user_login.php on line 19
+[01-Oct-2018 11:55:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/moazzamshoukat/public_html/abc/apis/user_login.php on line 19
+[01-Oct-2018 11:57:19 UTC] PHP Notice:  Trying to get property of non-object in /home/moazzamshoukat/public_html/abc/apis/user_signup.php on line 22
+[01-Oct-2018 12:00:50 UTC] PHP Notice:  Undefined index: email in /home/moazzamshoukat/public_html/abc/apis/user_login.php on line 6
+[01-Oct-2018 12:00:50 UTC] PHP Notice:  Undefined index: password in /home/moazzamshoukat/public_html/abc/apis/user_login.php on line 7
+[01-Oct-2018 16:40:53 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[01-Oct-2018 16:40:53 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[01-Oct-2018 16:40:54 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[01-Oct-2018 16:41:02 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[03-Oct-2018 18:38:13 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[03-Oct-2018 18:38:16 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[03-Oct-2018 18:46:11 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 07:11:21 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 07:28:02 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 07:28:52 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 07:28:55 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 07:29:16 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 07:29:19 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 07:29:21 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 07:29:29 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 07:33:11 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 07:36:04 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 07:56:06 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 08:06:38 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 08:06:44 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 08:06:50 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 08:12:25 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 08:12:57 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 08:16:38 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 08:16:49 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 08:16:52 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 08:16:55 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 08:17:03 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 08:19:46 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 08:21:50 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 08:21:54 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 08:22:09 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 08:23:36 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 08:23:42 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 08:23:50 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 08:25:02 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 08:25:34 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 08:27:06 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 09:48:10 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 09:48:17 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 09:49:38 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 09:49:41 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 09:53:19 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 09:53:48 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 09:57:26 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
+[04-Oct-2018 10:04:41 UTC] PHP Notice:  Undefined variable: array in /home/moazzamshoukat/public_html/abc/apis/get_category_detail.php on line 25
